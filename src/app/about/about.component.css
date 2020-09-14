@@ -1,0 +1,13 @@
+.img{
+    background-repeat: no-repeat;
+    opacity: 0.8;
+    background-size: cover;
+    background-image:url("https://image.freepik.com/free-photo/hand-sanitizer-with-medical-mask-blue-background_227197-429.jpg") ;
+}
+.style{
+    margin-top: -20px;
+    color:black;
+    opacity: 1;
+    height:800px;
+    
+}
